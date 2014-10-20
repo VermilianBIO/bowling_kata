@@ -1,4 +1,5 @@
 class Game
+	
 	$FrameScore = Array.new
 	$convertedscore = Array.new
 	$Game1 = 0
