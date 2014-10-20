@@ -1,2 +1,6 @@
 --color
+<<<<<<< HEAD
 --format doc
+=======
+--require spec_helper
+>>>>>>> 18b3ba5c76e0ee179168e9f8f2124347cbf76a41
